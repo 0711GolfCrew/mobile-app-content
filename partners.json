@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "name": "Golf Club ABC",
+    "websiteUrl": "https://www.golfland-baden-wuerttemberg.de/golfplaetze",
+    "imageUrl": "https://imgs.search.brave.com/e90jTv2lYsgI84YyP2vdEL4u7T0Hr685q86-BPcfQRw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YXVmLXJlaXNlbi5k/ZS9pbWFnZXMvZ29s/ZmxhbmQvd3d3L2dy/b3NzL2JsaWNrLWNs/dWJoYXVzLWdjLW9i/ZXJlLWFscC12YTQ1/NzIwLmpwZw",
+    "type": "partner_club"
+  },
+  {
+    "name": "Weinmarke XYZ",
+    "imageUrl": "https://thumbs.dreamstime.com/b/wei%C3%9Fwein-mit-fass-auf-weinberg-im-chianti-toskana-italien-76485422.jpg?w=768",
+    "type": "sponsor"
+  }
+]
