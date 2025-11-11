@@ -3,6 +3,7 @@
     "name": "Frostbeulencup - Wintergolf",
     "location": "?",
     "time": "15.02.2026",
+    "date": "2026-02-15",
     "type": "tournament",
     "linkUrl": "https://golfcrew_app.com/events/clubfest"
   },
@@ -11,6 +12,7 @@
     "description": "Ein unvergessliches Golf-Erlebnis in der Türkei!",
     "location": "Golfplatz Grünfeld",
     "time": "03.02.2026 - 10.02.2026",
+    "date": "2026-02-03",
     "type": "tournament",
     "linkUrl": "https://golwfcrew_app.com/events/sommer-turnier"
   },
@@ -18,6 +20,7 @@
     "name": "Messe CMT",
     "location": "Messe Stuttgart - Halle ? - Stand ?",
     "time": "22.01.2026 - 24.01.2026",
+    "date": "2026-01-22",
     "type": "other",
     "description": "Die 0711 GolfCrew präsentiert sich auf der CMT 2026!"
   },
@@ -25,6 +28,7 @@
     "name": "Frostbeulencup - Wintergolf",
     "location": "?",
     "time": "17.01.2026",
+    "date": "2026-01-17",
     "type": "tournament",
     "linkUrl": "https://golfcrew_app.com/events/clubfest"
   }
